@@ -1,6 +1,6 @@
 ## Python Password Generator and Strength Evaluator 
 
-A simple example of a little project. 
+A simple example of a little python project.
 It has two function one for the password generator, and another for the password strength function.
 
 ---
